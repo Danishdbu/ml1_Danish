@@ -1,9 +1,7 @@
-# 🧠 Machine Learning Made Simple (Pareto Principle Approach)
+# 🧠 Machine Learning Made Simple
 
 ## 🚀 What is Machine Learning?
 Machine Learning (ML) is the field of teaching computers to learn patterns from data and make decisions or predictions without being explicitly programmed.
-
-## 🎯 Pareto Principle Focus: The 20% That Delivers 80% of Results
 
 ---
 
@@ -15,7 +13,7 @@ Machine Learning (ML) is the field of teaching computers to learn patterns from 
 
 ---
 
-### 2. Most Used Algorithms (The 20%)
+### 2. Most Used Algorithms 
 
 | Algorithm              | Type          | Use Case Example                  |
 |------------------------|---------------|-----------------------------------|
